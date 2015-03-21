@@ -1,0 +1,16 @@
+{
+	"category" : "mySiteMap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"webDir",
+		"homePath",
+		"htmlRegex" ],
+	"name" : "WebDir",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

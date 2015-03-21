@@ -1,0 +1,15 @@
+{
+	"category" : "mySiteMap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"path",
+		"homePath" ],
+	"name" : "WebPage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
