@@ -5,4 +5,5 @@ A simple desktop application that generates a site map for a web site stored loc
 
 
 Execute : WebDir selectHome makeToc
+
 To generate a site map of the website stored locally.
